@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on breakdown points of some 1-dimensional location estimators.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/684183e815da73f9e914941a3d94c2d9_brkdn_location.pdf
+file: /media/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/684183e815da73f9e914941a3d94c2d9_brkdn_location.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Breakdown Points of some 1-Dimensional Location Estimators
 uid: 684183e8-15da-73f9-e914-941a3d94c2d9

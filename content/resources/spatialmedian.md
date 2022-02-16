@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on the spatial median.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/64fb1ad786d5fc7157b0f30b430e7c9a_spatialmedian.pdf
+file: /media/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/64fb1ad786d5fc7157b0f30b430e7c9a_spatialmedian.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Spatial Median
 uid: 64fb1ad7-86d5-fc71-57b0-f30b430e7c9a
