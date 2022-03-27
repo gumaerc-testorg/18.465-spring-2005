@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: M-estimators and their Consistency
 uid: 3f81a744-0948-9738-0591-c3d2b21201e8

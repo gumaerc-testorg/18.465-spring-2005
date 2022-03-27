@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: The Spatial Median
 uid: 64fb1ad7-86d5-fc71-57b0-f30b430e7c9a

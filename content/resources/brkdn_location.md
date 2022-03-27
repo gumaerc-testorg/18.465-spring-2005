@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: Breakdown Points of some 1-Dimensional Location Estimators
 uid: 684183e8-15da-73f9-e914-941a3d94c2d9

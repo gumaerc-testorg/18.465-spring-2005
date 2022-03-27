@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: The Delta-Method and Asymptotics of some Estimators
 uid: 11b322ac-770a-b24c-abb3-4a45a6365d94

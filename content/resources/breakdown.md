@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: 'Introduction to Robustness: Breakdown Points'
 uid: 2575baf3-b9f9-5fbc-ae3c-35b4964a71e0

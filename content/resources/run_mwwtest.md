@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 resourcetype: Document
 title: Combining the Run and Mann-Whitney-Wilcoxon Tests
 uid: f0da80bb-ba24-d6e1-1acd-1fc81c75f88b
