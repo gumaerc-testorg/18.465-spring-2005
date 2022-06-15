@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section contains problems and sessions on which they are
+  due and associated files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ HINTs
 One day after lecture 4
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ({{% resource_link 40ef1dc1-d37e-7298-c6e6-0a86e6c28e8c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -43,10 +45,10 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 ({{% resource_link 002935ac-a988-5633-8af2-6c5fa518dbd7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Hint ([PDF]({{< baseurl >}}/resources/hintps2))
+Hint ({{% resource_link c9089592-396b-3438-98e0-658afe223fb8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,10 +57,10 @@ Hint ([PDF]({{< baseurl >}}/resources/hintps2))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 ({{% resource_link cd8eb04a-cc8b-23e6-09b1-f3ea9c8f3e76 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Hint ([PDF]({{< baseurl >}}/resources/hintps3))
+Hint ({{% resource_link b9fa2cf3-5051-c9a2-4d7b-71b659d676e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,10 +69,10 @@ Hint ([PDF]({{< baseurl >}}/resources/hintps3))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4 ({{% resource_link 81060b84-0d6b-be81-cef5-80fde4317d17 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Hint ([PDF]({{< baseurl >}}/resources/hintps4))
+Hint ({{% resource_link 4473d008-2fb2-ea07-71ba-ab0beb0a0993 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Hint ([PDF]({{< baseurl >}}/resources/hintps4))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 5 ({{% resource_link 1ee6f8be-6e91-4e54-57b0-4cffb5be24b4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -91,7 +93,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6 ({{% resource_link 01f06b77-c4b4-1a4e-4a9e-e4bbe4ecf622 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -103,7 +105,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7 ({{% resource_link 6949cca1-3fc7-83dc-c6d8-e542109a3e34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -115,7 +117,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 Two days after lecture 25
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
+Problem Set 8 ({{% resource_link 35adaee2-afc6-f101-5212-af199a5c27f6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
