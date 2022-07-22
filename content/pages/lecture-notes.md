@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides lecture notes that supplement the readings in the
+  course textbook.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 73ab9f9d-e033-354e-bf31-89bf70358f3b
 ---
@@ -26,9 +31,9 @@ Topics
 {{< tdopen >}}
 
 
-Outliers ([PDF]({{< baseurl >}}/resources/outliers))
+Outliers ({{% resource_link 5d70b3b8-5c48-f657-003a-f200517c2930 "PDF" %}})
 
-Quantiles ([PDF]({{< baseurl >}}/resources/quantiles))
+Quantiles ({{% resource_link 87286789-f7e5-aa1e-2501-3a7400b8bfe7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -39,7 +44,7 @@ Quantiles ([PDF]({{< baseurl >}}/resources/quantiles))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Combining the Run and Mann-Whitney-Wilcoxon Tests ([PDF]({{< baseurl >}}/resources/run_mwwtest))
+Combining the Run and Mann-Whitney-Wilcoxon Tests ({{% resource_link f0da80bb-ba24-d6e1-1acd-1fc81c75f88b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,9 +55,9 @@ Combining the Run and Mann-Whitney-Wilcoxon Tests ([PDF]({{< baseurl >}}/resourc
 {{< tdopen >}}
 
 
-Bretagnolle and Massart's Proof of the KMT Theorem for the Uniform Empirical Process ([PDF]({{< baseurl >}}/resources/bretagn_massart))
+Bretagnolle and Massart's Proof of the KMT Theorem for the Uniform Empirical Process ({{% resource_link 0a472bc7-5921-bd9a-7a12-c37bb261d572 "PDF" %}})
 
-The Delta-Method and Asymptotics of some Estimators ([PDF]({{< baseurl >}}/resources/delta_asympt))
+The Delta-Method and Asymptotics of some Estimators ({{% resource_link 11b322ac-770a-b24c-abb3-4a45a6365d94 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -65,9 +70,9 @@ The Delta-Method and Asymptotics of some Estimators ([PDF]({{< baseurl >}}/resou
 {{< tdopen >}}
 
 
-Introduction to Robustness: Breakdown Points ([PDF]({{< baseurl >}}/resources/breakdown))
+Introduction to Robustness: Breakdown Points ({{% resource_link 2575baf3-b9f9-5fbc-ae3c-35b4964a71e0 "PDF" %}})
 
-Breakdown Points of some 1-Dimensional Location Estimators ([PDF]({{< baseurl >}}/resources/brkdn_location))
+Breakdown Points of some 1-Dimensional Location Estimators ({{% resource_link 684183e8-15da-73f9-e914-941a3d94c2d9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -80,9 +85,9 @@ Breakdown Points of some 1-Dimensional Location Estimators ([PDF]({{< baseurl >}
 {{< tdopen >}}
 
 
-M-estimators and their Consistency ([PDF]({{< baseurl >}}/resources/m_estimates))
+M-estimators and their Consistency ({{% resource_link 3f81a744-0948-9738-0591-c3d2b21201e8 "PDF" %}})
 
-The Spatial Median ([PDF]({{< baseurl >}}/resources/spatialmedian))
+The Spatial Median ({{% resource_link 64fb1ad7-86d5-fc71-57b0-f30b430e7c9a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -93,7 +98,7 @@ The Spatial Median ([PDF]({{< baseurl >}}/resources/spatialmedian))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Non-existence of some Affinely Equivariant Location Functionals in Dimension d ≥ 2 ([PDF]({{< baseurl >}}/resources/obenchain))
+Non-existence of some Affinely Equivariant Location Functionals in Dimension d ≥ 2 ({{% resource_link ad570c20-58b0-25a5-4532-90d7d17d4ee4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Non-existence of some Affinely Equivariant Location Functionals in Dimension d �
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Location and Scatter Functionals ([PDF]({{< baseurl >}}/resources/location_scatter))
+Location and Scatter Functionals ({{% resource_link 25202c93-390a-a204-1da6-1d7a86594e7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
