@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Outliers '
 uid: 5d70b3b8-5c48-f657-003a-f200517c2930
 ---
 Lecture notes on statistical outliers and robustness.
-

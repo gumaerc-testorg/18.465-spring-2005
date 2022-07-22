@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 3
 uid: cd8eb04a-cc8b-23e6-09b1-f3ea9c8f3e76
 ---
 Problem set on statistics, nonparametrics, and robustness.
-

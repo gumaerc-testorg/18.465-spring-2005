@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Non-existence of some Affinely Equivariant Location Functionals in Dimen
 uid: ad570c20-58b0-25a5-4532-90d7d17d4ee4
 ---
 Lecture notes on the non-existence of some affinely equivariant location functionals in dimension d ≥ 2.
-

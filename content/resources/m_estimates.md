@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: M-estimators and their Consistency
 uid: 3f81a744-0948-9738-0591-c3d2b21201e8
 ---
 Lecture notes on M-estimators and their consistency.
-

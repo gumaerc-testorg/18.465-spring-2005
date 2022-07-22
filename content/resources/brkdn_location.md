@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Breakdown Points of some 1-Dimensional Location Estimators
 uid: 684183e8-15da-73f9-e914-941a3d94c2d9
 ---
 Lecture notes on breakdown points of some 1-dimensional location estimators.
-

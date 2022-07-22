@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Delta-Method and Asymptotics of some Estimators
 uid: 11b322ac-770a-b24c-abb3-4a45a6365d94
 ---
 Lecture notes on the delta-method and asymptotics of some estimators.
-
