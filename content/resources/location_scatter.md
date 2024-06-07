@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on location and scatter functionals, nonexistence facts
   in dimension 2 or higher, collapse points, univariate trimming, and the shorth.
 file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/25202c93390aa2041da61d7a86594e7a_location_scatter.pdf
+file_size: 298152
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
