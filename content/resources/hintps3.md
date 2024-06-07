@@ -2,6 +2,7 @@
 content_type: resource
 description: Hints for a problem set on statistics, nonparametrics, and robustness.
 file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/b9fa2cf35051c9a24d7b71b659d676e3_hintps3.pdf
+file_size: 48633
 file_type: application/pdf
 learning_resource_types:
 - Assignments

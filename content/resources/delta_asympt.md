@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the delta-method and asymptotics of some estimators.
 file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/11b322ac770ab24cabb34a45a6365d94_delta_asympt.pdf
+file_size: 96500
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the spatial median.
 file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/64fb1ad786d5fc7157b0f30b430e7c9a_spatialmedian.pdf
+file_size: 57587
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
