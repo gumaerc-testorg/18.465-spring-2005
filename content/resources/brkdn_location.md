@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on breakdown points of some 1-dimensional location estimators.
-file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/684183e815da73f9e914941a3d94c2d9_brkdn_location.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/684183e815da73f9e914941a3d94c2d9_brkdn_location.pdf
 file_size: 88772
 file_type: application/pdf
 learning_resource_types:
