@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on robust statistics and breakdown points.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/2575baf3b9f95fbcae3c35b4964a71e0_breakdown.pdf
+file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/2575baf3b9f95fbcae3c35b4964a71e0_breakdown.pdf
 file_size: 76658
 file_type: application/pdf
 learning_resource_types:

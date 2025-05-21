@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on statistical outliers and robustness.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/5d70b3b85c48f657003af200517c2930_outliers.pdf
+file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/5d70b3b85c48f657003af200517c2930_outliers.pdf
 file_size: 47306
 file_type: application/pdf
 learning_resource_types:
