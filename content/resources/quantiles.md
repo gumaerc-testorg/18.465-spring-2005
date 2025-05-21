@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on quantiles.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/87286789f7e5aa1e25013a7400b8bfe7_quantiles.pdf
+file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/87286789f7e5aa1e25013a7400b8bfe7_quantiles.pdf
 file_size: 53547
 file_type: application/pdf
 learning_resource_types:

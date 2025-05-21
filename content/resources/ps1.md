@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on statistics, nonparametrics, and robustness.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/40ef1dc1d37e7298c6e60a86e6c28e8c_ps1.pdf
+file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/40ef1dc1d37e7298c6e60a86e6c28e8c_ps1.pdf
 file_size: 42919
 file_type: application/pdf
 learning_resource_types:

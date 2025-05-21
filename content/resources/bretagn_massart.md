@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the classical empirical process defined in terms of
   empirical distribution functions.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/0a472bc75921bd9a7a12c37bb261d572_bretagn_massart.pdf
+file: /courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/0a472bc75921bd9a7a12c37bb261d572_bretagn_massart.pdf
 file_size: 413838
 file_type: application/pdf
 learning_resource_types:
